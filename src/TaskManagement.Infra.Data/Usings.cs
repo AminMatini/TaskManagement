@@ -10,3 +10,4 @@ global using TaskManagement.Domain.Entities.Common;
 global using TaskManagement.Domain.Repositories.Common;
 global using TaskManagement.Infra.Data;
 global using TaskManagement.Domain.UnitOfWorks;
+global using TaskManagement.Domain.Entities;
