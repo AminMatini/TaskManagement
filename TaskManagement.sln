@@ -5,17 +5,19 @@ VisualStudioVersion = 17.6.33606.364
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33D34C9C-894E-4251-A768-2E03ADE67918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Api", "src\TaskManagement.Api\TaskManagement.Api.csproj", "{100EADA3-18E2-4798-BB32-7588C65AD883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Api", "src\TaskManagement.Api\TaskManagement.Api.csproj", "{100EADA3-18E2-4798-BB32-7588C65AD883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Domain", "src\TaskManagement.Domain\TaskManagement.Domain.csproj", "{868CBC06-96BF-4AD3-93DB-9B7044321B15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Domain", "src\TaskManagement.Domain\TaskManagement.Domain.csproj", "{868CBC06-96BF-4AD3-93DB-9B7044321B15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Infra.Data", "src\TaskManagement.Infra.Data\TaskManagement.Infra.Data.csproj", "{9A9FE211-2B73-4B69-B50A-6AA010A98433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Infra.Data", "src\TaskManagement.Infra.Data\TaskManagement.Infra.Data.csproj", "{9A9FE211-2B73-4B69-B50A-6AA010A98433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Infra.IoC", "src\TaskManagement.Infra.IoC\TaskManagement.Infra.IoC.csproj", "{3029525E-72BC-41AB-AC60-82D397DC74A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Infra.IoC", "src\TaskManagement.Infra.IoC\TaskManagement.Infra.IoC.csproj", "{3029525E-72BC-41AB-AC60-82D397DC74A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Application", "src\TaskManagement.Application\TaskManagement.Application.csproj", "{FFBDB262-2609-4744-BD67-81FC90757CFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Application", "src\TaskManagement.Application\TaskManagement.Application.csproj", "{FFBDB262-2609-4744-BD67-81FC90757CFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement.Common", "src\TaskManagement.Common\TaskManagement.Common.csproj", "{FE7A9714-413A-4432-8E9E-5B8C5D46930D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManagement.Common", "src\TaskManagement.Common\TaskManagement.Common.csproj", "{FE7A9714-413A-4432-8E9E-5B8C5D46930D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{2778D191-CB2E-41E0-AB06-7E8F80D701C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
